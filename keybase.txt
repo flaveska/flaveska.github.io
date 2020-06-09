@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/flaveska
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://flaveska.github.io
+  * I am flaveska (https://keybase.io/flaveska) on keybase.
+  * I have a public key ASBGcUjOabKDfkCoe7_hdPPIFqxktqScRe3En0lB17Zvbgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120918b53a4a5d7cca689c34bc11fecc599a0263a743eb93dd420f3d4440d031e6d0a",
+      "host": "keybase.io",
+      "kid": "0120467148ce69b2837e40a87bbfe174f3c816ac64b6a49c45edc49f4941d7b66f6e0a",
+      "uid": "723895ae0dc1cccb0e99bdebb0d3c319",
+      "username": "flaveska"
+    },
+    "merkle_root": {
+      "ctime": 1591710182,
+      "hash": "d786234053470d8995e03e66482be4f3071c3dcad11d1835d50b7b8d8518d54080fe192e6b85041ca9fe090a738c8a149352541f9ad117111007d39f154caaa8",
+      "hash_meta": "d11b8f91b3c5f0e81aa3f083b2e4826f222ac41c4843713b7da3d19eb091a2bd",
+      "seqno": 16602251
+    },
+    "service": {
+      "entropy": "i/ca3I0McvXlZsFkc5BuzzQQ",
+      "hostname": "flaveska.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1591710229,
+  "expire_in": 504576000,
+  "prev": "590239ec9fa3f8983dfc57328c20b4540299ebc832989dfc52a6ab83d09bd099",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRnFIzmmyg35AqHu/4XTzyBasZLaknEXtxJ9JQde2b24Kp3BheWxvYWTESpcCD8QgWQI57J+j+Jg9/FcyjCC0VAKZ68gymJ38Uqarg9Cb0JnEICyytuVtzcO0voJlHuZvySEIK2w8evQdqsdUvSY2eBuhAgHCo3NpZ8RARLv2JxcidwHqahUVgpYlsmBsE7N+NSmtB1WBI060PS7dvC4L7D/uQXpsFbMZrqQ4LvLLXNznsiqnjJv5ykz9AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ9kF7bGSzTI7Cy8pQU3NmxhzymVgxc3V2eY4yaWDzVIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/flaveska
+
+==================================================================
